@@ -1,0 +1,5 @@
+/.idea/
+/SignallingServer/node_modules/
+/SignallingServer/package.json
+/SignallingServer/package-lock.json
+/node_modules/
